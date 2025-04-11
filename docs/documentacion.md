@@ -147,3 +147,5 @@ Notas o comentarios adicionales.
 
 - *Trastorno bipolar.*
 
+![alt text](image.png)
+![alt text](image-3.png)
