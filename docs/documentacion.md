@@ -172,4 +172,18 @@ Estos datos provienen del Informe sobre Salud Mental en el Trabajo 2021 de Mind 
 - En Silicon Valley, **el 81% de los trabajadores de la Generación Z** ha dejado un trabajo por razones de salud mental.[Business Insider España](https://www.businessinsider.es/tecnologia/hay-crisis-salud-mental-silicon-valley-1043297?utm_source=chatgpt.com)
 - **El 38% de las mujeres en tecnología** han considerado dejar la industria debido al agotamiento, el sexismo institucionalizado y la cultura tóxica .[Business Insider España](https://www.businessinsider.es/tecnologia/hay-crisis-salud-mental-silicon-valley-1043297?utm_source=chatgpt.com)
 
+---------------------------------------------------------------------------------------------------------
 
+### ESTRUCTURA PRESENTACIÓN EN TABLEAU
+
+*** Dash_board 1: Presentación (mapa?) con índice (uso de botones?)**
+
+*** Dash-board 2: Contextualización rotación**
+
+*** Dash_board 3: Big_numbers (transición). Estudio SM/Tech en California**
+
+*** Dash-board 4:PROGRAMA BIENESTAR. Grandes preguntas (salud_mental_encuesta)**
+
+*** Dash-board 5:COMUNICACIÓN. Grandes preguntas (salud_mental_encuesta)**
+
+***Dash_board 6: CIERRE. Recomendaciones (leyes, programa bienestar, comunicación)**
