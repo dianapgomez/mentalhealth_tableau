@@ -149,3 +149,27 @@ Notas o comentarios adicionales.
 
 ![alt text](image.png)
 ![alt text](image-3.png)
+
+### 📊 Datos clave en EE. UU.
+
+- **76% de los trabajadores estadounidenses** reportaron al menos un síntoma de una condición de salud mental.[HHS.gov](https://www.hhs.gov/es/surgeongeneral/reports-and-publications/workplace-well-being/index.html?utm_source=chatgpt.com)
+- **84% de los encuestados** indicaron que las condiciones de su lugar de trabajo contribuyeron a al menos un problema de salud mental.[HHS.gov](https://www.hhs.gov/es/surgeongeneral/reports-and-publications/workplace-well-being/index.html?utm_source=chatgpt.com)
+- **81% de los trabajadores** manifestaron que buscarán lugares de trabajo que respalden la salud mental en el futuro.[HHS.gov](https://www.hhs.gov/es/surgeongeneral/reports-and-publications/workplace-well-being/index.html?utm_source=chatgpt.com)
+
+Estos datos provienen del Informe sobre Salud Mental en el Trabajo 2021 de Mind Share Partners y de la Encuesta de Trabajo y Bienestar de la APA de 2022 .[HHS.gov+1Business Insider España+1](https://www.hhs.gov/es/surgeongeneral/reports-and-publications/workplace-well-being/index.html?utm_source=chatgpt.com)
+
+---
+
+### 📍 Enfoque en California
+
+- **California** ha aprobado legislación que establece estándares voluntarios para la salud mental en el lugar de trabajo. Esta medida busca equiparar la estrategia de salud mental en el trabajo con la atención que se brinda a la salud física, permitiendo que los empleados se sientan cómodos al tomar licencias médicas por problemas de salud mental .[KFF Health News+1Labor Law PC+1](https://kffhealthnews.org/news/empleadores-buscan-nuevas-formas-de-abordar-la-salud-mental-de-los-trabajadores/?utm_source=chatgpt.com)
+- **Leyes laborales de California** exigen a las empresas tratar los problemas de salud mental con la misma seriedad que las discapacidades físicas. Los empleados tienen derecho a ajustes razonables, como horarios de trabajo flexibles, opciones de trabajo a distancia y ajustes en la carga de trabajo .[Labor Law PC](https://www.laborlawpc.com/es/blog/california-labor-laws-supporting-mental-health-in-the-workplace/?utm_source=chatgpt.com)
+
+---
+
+### 🧠 Impacto en el sector tecnológico de Silicon Valley
+
+- En Silicon Valley, **el 81% de los trabajadores de la Generación Z** ha dejado un trabajo por razones de salud mental.[Business Insider España](https://www.businessinsider.es/tecnologia/hay-crisis-salud-mental-silicon-valley-1043297?utm_source=chatgpt.com)
+- **El 38% de las mujeres en tecnología** han considerado dejar la industria debido al agotamiento, el sexismo institucionalizado y la cultura tóxica .[Business Insider España](https://www.businessinsider.es/tecnologia/hay-crisis-salud-mental-silicon-valley-1043297?utm_source=chatgpt.com)
+
+
