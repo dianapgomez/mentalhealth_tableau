@@ -3,13 +3,13 @@
 
 Nuestro enfoque está armado en base a los siguientes puntos:
 
-*** Datos cuantitativos de una encuesta real sobre salud mental en la industria tecnológica realizada en 2014.**
+### Datos cuantitativos de una encuesta real sobre salud mental en la industria tecnológica realizada en 2014.*
 
 Cada columna representa un punto de datos específico recopilado de personas que trabajan en el sector tecnológico. 
 
 La información ofrece una visión sobre aspectos demográficos, el entorno laboral y experiencias relacionadas con la salud mental, incluyendo el tratamiento y su impacto en el trabajo.
 
-*** Datos cualitativos (conclusiones estructuradas tras el primer análisis de rotación).** 
+### Datos cualitativos (conclusiones estructuradas tras el primer análisis de rotación).** 
 
 
 | 🧩 **Variable**                    | 📝 **Conclusión Clave**                                                                                                                                     |
@@ -28,9 +28,9 @@ La información ofrece una visión sobre aspectos demográficos, el entorno labo
 | 💰 **Salario anual**             | Brecha salarial alta. Evaluar justicia y adecuación salarial.                                                                                               |
 | 📍 **Distancia al trabajo**      | Distancias largas pueden afectar satisfacción. Considerar trabajo remoto o flexibilidad.                                                                   |
 
-*** Estadísticas recientes del contexto estadounidense y californiano.**
+### Estadísticas recientes del contexto estadounidense y californiano.**
 
-*** 📊 Datos clave en EE. UU.** 
+#### 📊 Datos clave en EE. UU.
 
 - **76% de los trabajadores estadounidenses** reportaron al menos un síntoma de una condición de salud mental.
 
@@ -49,7 +49,7 @@ Estos datos provienen del Informe sobre Salud Mental en el Trabajo 2021 de Mind 
 [HHS.gov+1Business Insider España+1](https://www.hhs.gov/es/surgeongeneral/reports-and-publications/workplace-well-being/index.html?utm_source=chatgpt.com)
 
 
-***📍 Enfoque en California**
+#### 📍 Enfoque en California
 
 - **California** ha aprobado legislación que establece estándares voluntarios para la salud mental en el lugar de trabajo. Esta medida busca equiparar la estrategia de salud mental en el trabajo con la atención que se brinda a la salud física, permitiendo que los empleados se sientan cómodos al tomar licencias médicas por problemas de salud mental .
 
@@ -59,9 +59,9 @@ Estos datos provienen del Informe sobre Salud Mental en el Trabajo 2021 de Mind 
 
 [Labor Law PC](https://www.laborlawpc.com/es/blog/california-labor-laws-supporting-mental-health-in-the-workplace/?utm_source=chatgpt.com)
 
----
 
-***🧠 Impacto en el sector tecnológico de Silicon Valley**
+
+#### 🧠 Impacto en el sector tecnológico de Silicon Valley
 
 - En Silicon Valley, **el 81% de los trabajadores de la Generación Z** ha dejado un trabajo por razones de salud mental.
 
@@ -72,23 +72,23 @@ Estos datos provienen del Informe sobre Salud Mental en el Trabajo 2021 de Mind 
 [Business Insider España](https://www.businessinsider.es/tecnologia/hay-crisis-salud-mental-silicon-valley-1043297?utm_source=chatgpt.com)
 
 
-***Marco narrativo en Tableau bien estructurado (inicio, desarrollo, cierre)**
+### Marco narrativo en Tableau bien estructurado (inicio, desarrollo, cierre)**
 
-***🗺️ Dashboard 1: Presentación (mapa + índice interactivo)**
+#### 🗺️ Dashboard 1: Presentación (mapa + índice interactivo)
 
 Objetivo: Atraer la atención y situar el problema.
 
 - Mapa con distribución geográfica de personas encuestadas.
 
 
-***🔄 Dashboard 2: Contextualización - Rotación y salud mental**
+#### 🔄 Dashboard 2: Contextualización - Rotación y salud mental
 
 Objetivo: Situar al espectador nuevamente en el primer análisis solicitado por el cuál senos solicita una ampliación de estuido.
 
 - Visualizaciones factores tradicionales vs "lo que no se ve".
 
 
-***🔢 Dashboard 3: Big Numbers / Estudio en California**
+#### 🔢 Dashboard 3: Big Numbers / Estudio en California
 
 Impactar con cifras clave del entorno más relevante para encuadrar el nuevo estudio basado en la salud mental como factor determinante de la rotación de 
 empleados en el sector tecnológico de la zona. 
@@ -98,7 +98,7 @@ empleados en el sector tecnológico de la zona.
 - Ley: “California toma la delantera: leyes y cultura laboral en transformación.”
 
 
-***💼 Dashboard 4: Programa de bienestar**
+#### 💼 Dashboard 4: Programa de bienestar
 
 1. Objetivo: Mostrar qué repercusión tiene en los empleados el conocer de la existencia de un Programa de Bienestar en la empresa.
 
@@ -115,7 +115,7 @@ El desconocimieto tamién es un dato de valor:  “Solo saber que hay opciones y
 - *La principal razón de mis respuestas sobre apertura se debe a una experiencia con mi anterior empleador. Sentí que podía confiar en mi supervisor directo, así que le conté. La información se filtró a más supervisores y eventualmente a mis compañeros. Los superiores recomendaron fuertemente tratamiento, pero apresuraron procesos que no debían apresurarse, y terminé siendo tratado incorrectamente en una sala psiquiátrica. La experiencia me dejó secuelas mentales. Perdí gran parte de mi motivación para programar y también miles de dólares en tiempo perdido, vacaciones que usaron para tratamiento, gastos médicos, etc. Tengo trastorno depresivo mayor, alta ansiedad y agorafobia leve. Después de ver lo que el tratamiento me ofreció, probablemente no lo busque de nuevo y continúe como estoy.*
 
 
-***📣 Dashboard 5: Comunicación y percepción**
+#### 📣 Dashboard 5: Comunicación y percepción
 
 1. Objetivo: Mostrar percepciones de los empleados desde la perspectiva de la estrategia comunicacional de la empresa.
 
@@ -128,7 +128,7 @@ El desconocimieto tamién es un dato de valor:  “Solo saber que hay opciones y
 - *Puede que sea seguro hablar del tema donde estoy ahora, pero no lo sé con certeza y prefiero pecar de precavido. Lucho con depresión y ansiedad, lo que a veces afecta mi productividad, pero trato de compensarlo o disimularlo en lugar de ser abierto al respecto.*
 
 
-***✅ Dashboard 6: Recomendaciones**
+#### ✅ Dashboard 6: Recomendaciones**
 
 Objetivo: Acciones claras.
 
@@ -141,7 +141,7 @@ Objetivo: Acciones claras.
 
 ### CIERRE
 
-** ➡️ *Porque cuidar la mente de quienes trabajan con nosotros es cuidar también la salud de la organización.*
+#### ➡️ *Porque cuidar la mente de quienes trabajan con nosotros es cuidar también la salud de la organización.
 
 
 ---------------------------------------------------------------------------------------------------------------------------
