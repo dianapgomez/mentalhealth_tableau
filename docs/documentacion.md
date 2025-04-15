@@ -141,7 +141,7 @@ Objetivo: Acciones claras.
 
 ### 5. CIERRE
 
-#### ➡️ *Porque cuidar la mente de quienes trabajan con nosotros es cuidar también la salud de la organización.
+#### ➡️ Porque cuidar la mente de quienes trabajan con nosotros es cuidar también la salud de la organización.
 
 
 ---------------------------------------------------------------------------------------------------------------------------
