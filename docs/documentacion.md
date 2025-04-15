@@ -72,7 +72,7 @@ Estos datos provienen del Informe sobre Salud Mental en el Trabajo 2021 de Mind 
 [Business Insider España](https://www.businessinsider.es/tecnologia/hay-crisis-salud-mental-silicon-valley-1043297?utm_source=chatgpt.com)
 
 
-### 4. Marco narrativo en Tableau bien estructurado (inicio, desarrollo, cierre)
+### 4. Marco narrativo en Tableau estructurado de la siguiente manera:
 
 #### 🗺️ Dashboard 1: Presentación (mapa + índice interactivo)
 
