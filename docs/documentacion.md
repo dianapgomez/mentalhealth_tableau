@@ -3,13 +3,13 @@
 
 Nuestro enfoque está armado en base a los siguientes puntos:
 
-### Datos cuantitativos de una encuesta real sobre salud mental en la industria tecnológica realizada en 2014.*
+### Datos cuantitativos de una encuesta real sobre salud mental en la industria tecnológica realizada en 2014.
 
 Cada columna representa un punto de datos específico recopilado de personas que trabajan en el sector tecnológico. 
 
 La información ofrece una visión sobre aspectos demográficos, el entorno laboral y experiencias relacionadas con la salud mental, incluyendo el tratamiento y su impacto en el trabajo.
 
-### Datos cualitativos (conclusiones estructuradas tras el primer análisis de rotación).** 
+### Datos cualitativos (conclusiones estructuradas tras el primer análisis de rotación).
 
 
 | 🧩 **Variable**                    | 📝 **Conclusión Clave**                                                                                                                                     |
@@ -28,7 +28,7 @@ La información ofrece una visión sobre aspectos demográficos, el entorno labo
 | 💰 **Salario anual**             | Brecha salarial alta. Evaluar justicia y adecuación salarial.                                                                                               |
 | 📍 **Distancia al trabajo**      | Distancias largas pueden afectar satisfacción. Considerar trabajo remoto o flexibilidad.                                                                   |
 
-### Estadísticas recientes del contexto estadounidense y californiano.**
+### Estadísticas recientes del contexto estadounidense y californiano.
 
 #### 📊 Datos clave en EE. UU.
 
