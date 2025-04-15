@@ -201,7 +201,7 @@ Tamaño de la empresa u organización donde trabaja el/la encuestado/a. Este cam
 #### anonymity (Anonimato)
 ¿Tu anonimato está protegido si decides hacer uso de los recursos para tratamiento de salud mental?
 
-### leave (Baja médica)
+#### leave (Baja médica)
 ¿Qué tan fácil es para ti tomar un permiso laboral por una condición de salud mental?
 
 #### mental_health_consequence (Consecuencias por salud mental)
@@ -230,9 +230,9 @@ Tamaño de la empresa u organización donde trabaja el/la encuestado/a. Este cam
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+![alt text](image-3.png)
 
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
