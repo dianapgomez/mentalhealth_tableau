@@ -196,7 +196,7 @@ Tamaño de la empresa u organización donde trabaja el/la encuestado/a. Este cam
 ¿Tu empleador ha hablado alguna vez sobre salud mental como parte de un programa de bienestar para empleados?
 
 #### seek_help (Buscar ayuda)
-¿Tu empleador proporciona recursos para aprender sobre salud mental y cómo buscar ayuda?
+¿Buscarías ayuda en tu entorno labaoral para tratar temas sobre salud mental?
 
 #### anonymity (Anonimato)
 ¿Tu anonimato está protegido si decides hacer uso de los recursos para tratamiento de salud mental?
