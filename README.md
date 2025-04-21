@@ -21,7 +21,7 @@ En este caso, nos hemos centrado en el análisis de datos de los csv [survey.csv
 📦 directorio-proyecto
 ├── 📁 data         # Conjuntos de datos brutos y limpios
 ├── 📁 notebooks    # Notebooks de Jupyter con análisis
-├── 📁 docs         # Documentación necesaria para contextualizar los csv y el proyectO
+├── 📁 docs         # Documentación necesaria para contextualizar los csv y el proyecto
 ├── 📁 tableau      # Archivos de Tableau 
 └── README.md       # Este archivo
 
